@@ -98,7 +98,7 @@
     top: 643px;
     left: 246px;
     border: 1px;
-    background-color: rgb(212, 114, 92); 
+    background-color:red; 
     color: rgb(254, 254, 255); 
 }
 .hero__button:hover{
