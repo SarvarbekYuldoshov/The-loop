@@ -73,7 +73,7 @@
 
 
 .wrapper{
-    background: black;
+    background: rgb(7, 7, 7);
 }
 .wrapper__container{
     max-width: 1200px;
