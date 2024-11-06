@@ -26,6 +26,38 @@
 .header__item{
     margin: 45px;
 }
+.header__link {
+    text-decoration: none;
+    color: #9597A5;
+    font-family: "PublicSans" ,sans-serif;
+    font-size: 14px;
+    line-height: 16.41px;
+    letter-spacing: -0.10769230872392654px;
+    text-align: left;    
+    transition: all 0.7s ease;
+    position: relative; 
+    display: inline-block;
+}
+.header__link::after {
+    content: "";
+    position: absolute;
+    bottom: -5px;
+    left: 0;
+    width: 100%;
+    height: 2px;
+    background-color:blue;
+    transform: scaleX(0); 
+    transform-origin: left;
+    transition: transform 0.3s ease;
+}
+.header__link:hover::after {
+    transform: scaleX(1); 
+    background-color:blue; 
+}
+.header__link:hover{
+    transform: scale(1.1);
+    color: blue;
+}
 
 
 
