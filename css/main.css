@@ -98,12 +98,16 @@
     top: 643px;
     left: 246px;
     border: 1px;
-    background-color:red; 
-    color: rgb(254, 254, 255); 
+    color:red;
+    background-color: transparent; 
+    border: 1px solid red;
+    border-radius: 5px;
 }
 .hero__button:hover{
    transform: scale(1.1); 
    transition: 1s;
+   background-color: red;
+   color: #FFFF;
 }
 
 
