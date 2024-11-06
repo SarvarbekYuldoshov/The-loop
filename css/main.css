@@ -109,8 +109,8 @@
    background-color: red;
    color: #FFFF;
 }
-.hero-img{
-    transform: scale(1.1);
+.hero-img:hover{
+    transform: scale(0.85);
     transition: 1s;
 }
 
