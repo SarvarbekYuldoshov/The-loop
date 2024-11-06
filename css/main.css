@@ -101,6 +101,9 @@
     background-color: rgb(212, 114, 92); 
     color: rgb(254, 254, 255); 
 }
+.hero__button:hover{
+   transform: scale(1.1); 
+}
 
 
 
