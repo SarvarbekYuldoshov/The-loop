@@ -203,6 +203,9 @@
     color: rgb(254, 254, 255); 
     border-radius: 5px;
 }
+.het__button:hover{
+    
+}
 .het__img{
   margin-top: 70px;
 }
