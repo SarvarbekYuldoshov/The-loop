@@ -204,7 +204,10 @@
     border-radius: 5px;
 }
 .het__button:hover{
-    
+    color: red;
+    border:1px solid blue;
+    background-color: transparent;
+
 }
 .het__img{
   margin-top: 70px;
