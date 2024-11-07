@@ -201,6 +201,7 @@
     border: 1px;
     background-color: red; 
     color: rgb(254, 254, 255); 
+    border-radius: 5px;
 }
 .het__img{
   margin-top: 70px;
