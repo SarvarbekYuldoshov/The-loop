@@ -209,6 +209,7 @@
     border:1px solid red;
     background-color: transparent;
     transform: scale(0.98);
+    transition: 1s;
 
 }
 .het__img{
