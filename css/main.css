@@ -208,8 +208,8 @@
     color: red;
     border:1px solid red;
     background-color: transparent;
-    transform: scale(0.98);
-    transition: 1s;
+    transform: scale(0.95);
+    transition: 2s;
 
 }
 .het__img{
